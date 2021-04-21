@@ -1,0 +1,37 @@
+
+        .table {
+            width: 100%;
+            padding: 10px;
+            font-family: arial;
+            text-align: left;
+        }
+        th {
+            background-color: lightblue;
+        }
+        img {
+            max-width: 40px;
+        }
+        .categori {
+            border: 1px solid black;
+            font-size: 14px;
+            padding: 12px 12px;
+            text-align: center;
+            display: inline-block;
+            margin: 4px 2px;
+            background-color: darkgreen;
+            border-radius: 20px;
+            color: white;
+        }
+		.hapus {
+			background-color: red;
+			color: white;
+		}
+		.ubah {
+			background-color: green;
+			color: white;
+		}
+        .tambah {
+            background-color: green;
+            color: white;
+        }
+        
