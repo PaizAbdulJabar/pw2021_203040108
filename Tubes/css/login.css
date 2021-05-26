@@ -1,0 +1,51 @@
+body{
+	font-family: sans-serif;
+	background-image: url(../assets/img/2.jpg);
+	background-size: 1920px 840px;
+}
+
+
+.a{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kotak{
+    border: 2px solid white;
+	width: 350px;
+	background: transparent;
+	margin: 180px auto;
+	padding: 50px 40px;
+}
+
+label{
+	font-size: 13pt;
+}
+
+.b{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 8px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.c{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+    width: 150px;
+    margin-left: 20px;
+}
+.link{
+    box-sizing : border-box;
+	padding: 8px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+    width: 150px;
+    background: red;
+    color: white;
+}
